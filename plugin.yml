@@ -1,0 +1,12 @@
+---
+name: PERanks
+version: 0.0.1
+main: gameking2319\PERanks\Main
+api: 3.17.0
+
+
+permissions:
+  peranks:
+    default: op
+    description: "this command lets you use the perank command"
+...
